@@ -1,4 +1,4 @@
-I'm an experienced front-end developer and a chapter lead with a bit of interest in UI design and mobile app development. Also, with great abilities in team management and leadership.
+Lead Front-end engineer, with a keen focus on UI/UX design and mobile app development. Angular contributor and open-source enthusiast.
 
 ### My Stackoverflow Profile
 
