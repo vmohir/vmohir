@@ -1,4 +1,4 @@
-Lead Front-end engineer, with a keen focus on UI/UX design and mobile app development. Angular contributor and open-source enthusiast.
+Front-end engineer, with a keen focus on UI/UX design and mobile app development.
 
 ### My Stackoverflow Profile
 
